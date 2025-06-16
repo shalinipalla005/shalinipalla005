@@ -105,7 +105,7 @@ const shalini = {
 
 ### 🌟 Creative Showcase
 
-<a href="[YOUR_PORTFOLIO_LINK_HERE](https://portfolio-dusky-alpha-67.vercel.app/)">
+<a href="https://portfolio-dusky-alpha-67.vercel.app/">
 <img src="https://img.shields.io/badge/🎨_CREATIVE_PORTFOLIO-Explore_My_Universe-FF6B6B?style=for-the-badge&logo=safari&logoColor=white&labelColor=2C3E50&logoWidth=20"/>
 </a>
 
