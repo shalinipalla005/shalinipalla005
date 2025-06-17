@@ -1,7 +1,5 @@
 <div align="center">
-  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:21262D,100:30363D&height=280&section=header&text=Shalini%20Palla&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=%20%20%20&descAlignY=58&descSize=24&descColor=58A6FF"/>
-  
+
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%3E+Initializing+developer...;%3E+Loading+IIT_Ropar_student.exe;%3E+Compiling+creativity.cpp;%3E+Ready+to+innovate+%F0%9F%9A%80" alt="Matrix Typing"/>
 
 ---
