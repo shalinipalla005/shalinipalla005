@@ -99,15 +99,15 @@ const shalini = {
 </div>
 
 <!-- Creative Portfolio Section -->
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<!--<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"> -->
 
-###  Creative Showcase
+<!--###  Creative Showcase
 
 <a href="https://portfolio-dusky-alpha-67.vercel.app/">
 <img src="https://img.shields.io/badge/_CREATIVE_PORTFOLIO-Explore_My_Universe-FF6B6B?style=for-the-badge&logo=safari&logoColor=white&labelColor=2C3E50&logoWidth=20"/>
 </a>
 
-<sub>*"My portfolio is not just a website, it's an experience. Dive in to see how I blend technology with creativity!"*</sub>
+<sub>*"My portfolio is not just a website, it's an experience. Dive in to see how I blend technology with creativity!"*</sub> -->
 
 <!-- Stylized Connect Section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
