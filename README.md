@@ -18,13 +18,13 @@ MOOD="Always curious, perpetually learning"
 
 # Achievement Array
 declare -A achievements=(
-    ["leetcode_max_rating"]="1756 🔥"
-    ["codeforces_rating"]="1241 🎯"
-    ["current_cgpa"]="7.1/10 📚"
+    ["leetcode_max_rating"]="1756 "
+    ["codeforces_rating"]="1241 "
+    ["current_cgpa"]="7.1/10 "
     ["lines_of_code"]="∞ (and counting...)"
 )
 
-echo "Ready to collaborate and innovate! 🌟"
+echo "Ready to collaborate and innovate! "
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="3">
@@ -37,12 +37,12 @@ echo "Ready to collaborate and innovate! 🌟"
 
 const shalini = {
     pronouns: "she/her",
-    location: "🇮🇳 India",
+    location: " India",
     education: "IIT Ropar",
     
     currentlyWorking: [
-        "🧠 Advanced Machine Learning Algorithms",
-        "🌐 Full Stack Magic"
+        "Advanced Machine Learning Algorithms",
+        "Full Stack Magic"
     ],
 
     getDreamJob: () => {
@@ -53,7 +53,7 @@ const shalini = {
         "MERN Stack Developer",
         "System Design Patterns", 
         "Competitive Programming",
-        "Why recursion is beautiful 🌀"
+        "Why recursion is beautiful "
     ]
 };
 
@@ -69,28 +69,28 @@ const shalini = {
 </table>
 
 
-### 🏆 Achievement Dashboard
+###  Achievement Dashboard
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🔥-LeetCode-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/-LeetCode-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <br><b>Max Rating: 1756</b>
-<br><sub>🥇 Contest Rank: 1823</sub>
+<br><sub> Contest Rank: 1823</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎯-JEE_Main-4CAF50?style=for-the-badge&logo=target&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JEE_Main-4CAF50?style=for-the-badge&logo=target&logoColor=white"/>
 <br><b>Top 1.3% Nationwide</b>
-<br><sub>🏆 Among 900K+ candidates</sub>
+<br><sub> Among 900K+ candidates</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🎓-IIT_Ropar-2196F3?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 <br><b>CGPA: 7.1/10</b>
-<br><sub>📚 CSE Department</sub>
+<br><sub>CSE Department</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/💻-Projects-9C27B0?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Projects-9C27B0?style=for-the-badge&logo=code&logoColor=white"/>
 <br><b>15+ Completed</b>
 <br><sub>🚀 From OS to ML</sub>
 </td>
@@ -101,10 +101,10 @@ const shalini = {
 <!-- Creative Portfolio Section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-### 🌟 Creative Showcase
+###  Creative Showcase
 
 <a href="https://portfolio-dusky-alpha-67.vercel.app/">
-<img src="https://img.shields.io/badge/🎨_CREATIVE_PORTFOLIO-Explore_My_Universe-FF6B6B?style=for-the-badge&logo=safari&logoColor=white&labelColor=2C3E50&logoWidth=20"/>
+<img src="https://img.shields.io/badge/_CREATIVE_PORTFOLIO-Explore_My_Universe-FF6B6B?style=for-the-badge&logo=safari&logoColor=white&labelColor=2C3E50&logoWidth=20"/>
 </a>
 
 <sub>*"My portfolio is not just a website, it's an experience. Dive in to see how I blend technology with creativity!"*</sub>
