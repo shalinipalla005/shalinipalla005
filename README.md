@@ -4,28 +4,6 @@
 
 ---
 
-```bash
-┌─[shalini@iitropar]─[~/profile]
-└──╼ $ cat about_me.sh
-
-#!/bin/bash
-# Developer Configuration File
-
-DEVELOPER_NAME="Shalini Palla"
-CURRENT_STATUS="Building the future, one commit at a time"
-EDUCATION="Computer Science Engineering @ IIT Ropar"
-MOOD="Always curious, perpetually learning"
-
-# Achievement Array
-declare -A achievements=(
-    ["leetcode_max_rating"]="1756 "
-    ["codeforces_rating"]="1241 "
-    ["current_cgpa"]="7.1/10 "
-    ["lines_of_code"]="∞ (and counting...)"
-)
-
-echo "Ready to collaborate and innovate! "
-```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="3">
 
@@ -69,34 +47,17 @@ const shalini = {
 </table>
 
 
-###  Achievement Dashboard
+## Competitive Programming
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-LeetCode-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<br><b>Max Rating: 1756</b>
-<br><sub> Contest Rank: 1823</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-JEE_Main-4CAF50?style=for-the-badge&logo=target&logoColor=white"/>
-<br><b>Top 1.3% Nationwide</b>
-<br><sub> Among 900K+ candidates</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎓-IIT_Ropar-2196F3?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<br><b>CGPA: 7.1/10</b>
-<br><sub>CSE Department</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-Projects-9C27B0?style=for-the-badge&logo=code&logoColor=white"/>
-<br><b>15+ Completed</b>
-<br><sub>🚀 From OS to ML</sub>
-</td>
-</tr>
-</table>
-</div>
+- **LeetCode:** [psshalini](https://leetcode.com/u/psshalini/) - Max Rating 1756
+- **Codeforces:** [Shalini_palla](https://codeforces.com/profile/Shalini_palla) - Max Rating 1241
+
+## Current Focus
+
+- Advanced Machine Learning algorithms and applications
+- Full-stack web development with modern frameworks
+- System design patterns and scalable architectures
+- Contributing to open-source projects
 
 <!-- Creative Portfolio Section -->
 <!--<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"> -->
@@ -109,26 +70,14 @@ const shalini = {
 
 <sub>*"My portfolio is not just a website, it's an experience. Dive in to see how I blend technology with creativity!"*</sub> -->
 
-<!-- Stylized Connect Section -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
 
-### 🌐 Let's Connect & Collaborate
+## Connect With Me
 
-<p align="center">
-<a href="mailto:itspallashalini@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
-</a>
-<a href="https://linkedin.com/in/shalini-palla">
-<img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<br><br>
-<a href="https://leetcode.com/u/psshalini/">
-<img src="https://img.shields.io/badge/🔥_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-<a href="https://codeforces.com/profile/Shalini_palla">
-<img src="https://img.shields.io/badge/⚡_Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalini-palla)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itspallashalini@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/psshalini/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Shalini_palla)
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d42b-4b24-9d5a-05c2da3ce043.gif" width="100">
 
@@ -138,12 +87,11 @@ const shalini = {
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up&author=Thomas%20Fuchs" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:30363D,50:21262D,100:0D1117&height=200&section=footer&text=Thanks%20for%20visiting%20my%20digital%20space!%20✨&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70&desc=Ready%20to%20build%20something%20amazing%20together?&descSize=18&descAlignY=90&descColor=58A6FF"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Thank%20you%20for%20visiting&fontSize=24&fontColor=fff&fontAlignY=65&desc=Let's%20connect%20and%20build%20innovative%20solutions%20together&descSize=16&descAlignY=80"/>
+</div>
 <!-- 
     You're thorough enough to read the source code!
     That's the kind of attention to detail I bring to every project.
     - Shalini 💫
 -->
 </div>
-
