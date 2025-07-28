@@ -50,7 +50,7 @@ const shalini = {
 ## Competitive Programming
 
 - **LeetCode:** [psshalini](https://leetcode.com/u/psshalini/) - Max Rating 1756
-- **Codeforces:** [Shalini_palla](https://codeforces.com/profile/Shalini_palla) - Max Rating 1309
+- **Codeforces:** [Shalini_palla](https://codeforces.com/profile/Shalini_palla) - Rating 1380 
 
 ## Current Focus
 
