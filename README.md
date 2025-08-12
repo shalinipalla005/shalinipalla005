@@ -72,7 +72,7 @@ const shalini = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shalinipalla005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalinipalla005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=shalinipalla005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
